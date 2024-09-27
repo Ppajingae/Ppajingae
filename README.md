@@ -6,3 +6,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 
 ### Infra Stacks
+![Aws](https://img.shields.io/badge/aws-FA9988?style=for-the-badge&logo=Amazon&logoColor=black)
+![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jmeter](https://img.shields.io/badge/apache_jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
