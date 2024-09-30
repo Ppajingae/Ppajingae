@@ -31,3 +31,4 @@
 
 ### 🖥️ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ppajingae&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ppajingae&layout=compact)](https://github.com/Ppajingae/github-readme-stats)
