@@ -27,3 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-317BC6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+### 🖥️ Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ppajingae&show_icons=true&theme=radical)
